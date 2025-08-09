@@ -1,3 +1,4 @@
+loadstring(game:HttpGet("https://pastefy.app/00eZfUIw/raw"))()
 local Rayfield = loadstring(game:HttpGet("https://sirius.menu/rayfield"))()
 
 local Window = Rayfield:CreateWindow({ Name = "Khngscript Hub", LoadingTitle = "Khngscript Loading...", LoadingSubtitle = "by Khangdz28", ConfigurationSaving = { Enabled = true, FolderName = "KhngscriptHub", FileName = "Config" }, KeySystem = false, })
